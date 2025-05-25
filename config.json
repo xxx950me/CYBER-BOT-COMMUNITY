@@ -1,5 +1,5 @@
 {
-    "language": "en",
+    "language": "bn",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -19,12 +19,12 @@
     "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
     "PREFIX": "/",
     "ADMINBOT": [
-        "61576357565998",
-        "100015168369582",
-        "61550035211214"
+        "100080504809119",
+        "",
+        ""
     ],
     "NDH": [
-        "100000478146113"
+        "100080504809119"
     ],
     "DATABASE": {
         "sqlite": {
